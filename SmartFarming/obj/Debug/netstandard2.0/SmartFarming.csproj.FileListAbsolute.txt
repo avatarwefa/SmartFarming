@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\SmartFarming\SmartFarming\SmartFarming\bin\Debug\netstandard2.0\SmartFarming.deps.json
+C:\Users\Admin\source\repos\SmartFarming\SmartFarming\SmartFarming\bin\Debug\netstandard2.0\SmartFarming.dll
+C:\Users\Admin\source\repos\SmartFarming\SmartFarming\SmartFarming\bin\Debug\netstandard2.0\ref\SmartFarming.dll
+C:\Users\Admin\source\repos\SmartFarming\SmartFarming\SmartFarming\bin\Debug\netstandard2.0\SmartFarming.pdb
+C:\Users\Admin\source\repos\SmartFarming\SmartFarming\SmartFarming\obj\Debug\netstandard2.0\SmartFarming.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SmartFarming\SmartFarming\SmartFarming\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Admin\source\repos\SmartFarming\SmartFarming\SmartFarming\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Admin\source\repos\SmartFarming\SmartFarming\SmartFarming\obj\Debug\netstandard2.0\SmartFarming.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SmartFarming\SmartFarming\SmartFarming\obj\Debug\netstandard2.0\SmartFarming.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SmartFarming\SmartFarming\SmartFarming\obj\Debug\netstandard2.0\SmartFarming.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SmartFarming\SmartFarming\SmartFarming\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Admin\source\repos\SmartFarming\SmartFarming\SmartFarming\obj\Debug\netstandard2.0\SmartFarming.dll
+C:\Users\Admin\source\repos\SmartFarming\SmartFarming\SmartFarming\obj\Debug\netstandard2.0\ref\SmartFarming.dll
+C:\Users\Admin\source\repos\SmartFarming\SmartFarming\SmartFarming\obj\Debug\netstandard2.0\SmartFarming.pdb
